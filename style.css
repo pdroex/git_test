@@ -1,0 +1,11 @@
+h1 {
+    color: gray;
+    font: arial sans-serif 26px;
+}
+
+.box1 {
+    background-color: cadetblue;
+    border-color: white;
+    font-style: italic;
+    color: black;
+}
